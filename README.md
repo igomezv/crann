@@ -4,4 +4,4 @@ If you use this code please cite the following preprint:
 
 Gómez-Vargas, I; Medel Esquivel, R; Vázquez, JA and García-Salcedo, R. 2021 **Synthetic cosmological data with artificial neural networks**. arxiv:xxxxxx Submitted to JCAP.
 
-**neuralcosmosynthetic** contains trained artificial neural networks to generate synthetic cosmic chronometers, JLA Type Ia supernovae and fs8 data.
+**COMANN** contains trained artificial neural networks to generate synthetic cosmic chronometers, JLA Type Ia supernovae and fs8 data.
