@@ -1,4 +1,4 @@
-# COMANN (Cosmological Observations Mimicked by Artificial Neural Networks)
+# Cosmological Observations Mimicked by Artificial Neural Networks (COMANN)
 
 If you use this code please cite the following preprint:
 
