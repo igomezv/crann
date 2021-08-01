@@ -1,6 +1,6 @@
 # Cosmological Reconstructions with Artificial Neural Networks (CRANN)
 
-If you use this code please cite the preprint [[arXiv:2104.00595]](https://arxiv.org/abs/2104.00595):
+If you use this code please cite the [[arXiv:2104.00595]](https://arxiv.org/abs/2104.00595)  preprint:
 
 	Gómez-Vargas, I., Vázquez, JA., Medel Esquivel, R. and García-Salcedo, R. (2021) Cosmological reconstructions with artificial neural networks Submitted to JCAP. [arXiv:2104.00595].
 
