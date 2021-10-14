@@ -6,3 +6,14 @@ If you use this code please cite the [[arXiv:2104.00595]](https://arxiv.org/abs/
 
 **CRANN** contains trained artificial neural networks to generate synthetic cosmic chronometers, JLA Type Ia supernovae (distance modulus) and 
 <img src="https://render.githubusercontent.com/render/math?math=f_{\sigma8}"> data.
+
+Requiriements:
+
+- numpy
+- sklearn
+- scipy
+- pandas
+- matplotlib
+- seaborn
+- tensorflow
+- astroNN
