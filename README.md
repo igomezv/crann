@@ -4,9 +4,5 @@ If you use this code please cite the [[arXiv:2104.00595]](https://arxiv.org/abs/
 
 	Gómez-Vargas, I., Vázquez, JA., Medel Esquivel, R. and García-Salcedo, R. (2021) Cosmological reconstructions with artificial neural networks Submitted to JCAP. [arXiv:2104.00595].
 
-**CRANN** contains trained artificial neural networks to generate synthetic cosmic chronometers, JLA Type Ia supernovae (distance modulus) and fs8 data.
-
-This work was submitted to the journal MNRAS and we are awaiting a response. 
-
-
-
+**CRANN** contains trained artificial neural networks to generate synthetic cosmic chronometers, JLA Type Ia supernovae (distance modulus) and 
+<img src="https://render.githubusercontent.com/render/math?math=f_{\sigma8}"> data.
