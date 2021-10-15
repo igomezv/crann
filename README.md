@@ -15,5 +15,5 @@ Requiriements:
 - pandas
 - matplotlib
 - seaborn
-- tensorflow
+- tensorflow==2.6.0
 - astroNN
