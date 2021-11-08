@@ -17,3 +17,4 @@ Requiriements:
 - seaborn
 - tensorflow==2.6.0
 - astroNN
+- h5py==2.9.0
