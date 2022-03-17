@@ -1,10 +1,6 @@
 # Cosmological Reconstructions with Artificial Neural Networks (CRANN)
 
-If you use this code please cite the [[arXiv:2104.00595]](https://arxiv.org/abs/2104.00595) preprint:
-
-	Gómez-Vargas, I., Vázquez, JA., Medel Esquivel, R. and García-Salcedo, R. (2021) Cosmological reconstructions with artificial neural networks. [arXiv:2104.00595].
-	
-or 
+If you use this code please cite the [[arXiv:2104.00595]](https://arxiv.org/abs/2104.00595) preprint, or:
 	
 	Gomez Vargas, Isidro and Medel Esquivel, Ricardo and García-Salcedo, Ricardo and Vazquez, J. Alberto, Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. DARK-D-21-00528, Available at SSRN: https://ssrn.com/abstract=3990646 or http://dx.doi.org/10.2139/ssrn.3990646 .
 	 
