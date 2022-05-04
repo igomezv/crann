@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/badge/astro--ph.CO-%20%09arXiv%3A2104.00595-red.svg
+   :target: https://arxiv.org/abs/2104.00595
+   :alt: Open-access paper
+   
 # Cosmological Reconstructions with Artificial Neural Networks (CRANN)
 
 If you use this code please cite the [[arXiv:2104.00595]](https://arxiv.org/abs/2104.00595) preprint, or:
