@@ -7,7 +7,7 @@
 
 In arxiv_notebooks folder, there are the notebooks that generates the figures of the paper.
 
-If you use this code please cite our preprint (accepted in EPJ-C):
+If you use this code please cite our preprint:
 	
 	Gómez-Vargas, Isidro and Medel Esquivel, Ricardo and García-Salcedo, Ricardo and Vazquez, J. Alberto, Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. DARK-D-21-00528, Available at SSRN: https://ssrn.com/abstract=3990646 or http://dx.doi.org/10.2139/ssrn.3990646 .
 	 
