@@ -3,13 +3,13 @@
       
 # Cosmological Reconstructions with Artificial Neural Networks (CRANN)
 
-*This repository is under construction. When the paper is published, it will be completed*.
+*This repository is under construction.*.
 
 In arxiv_notebooks folder, there are the notebooks that generates the figures of the paper.
 
-If you use this code please cite our preprint:
+If you use this code please cite our paper:
 	
-	Gómez-Vargas, Isidro and Medel Esquivel, Ricardo and García-Salcedo, Ricardo and Vazquez, J. Alberto, Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. Accepted in EPJC, Available at: https://ssrn.com/abstract=3990646 or http://dx.doi.org/10.2139/ssrn.3990646 .
+	Gómez-Vargas, I., Medel-Esquivel, R., García-Salcedo, R. et al. Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. Eur. Phys. J. C 83, 304 (2023). https://doi.org/10.1140/epjc/s10052-023-11435-9.
 	 
 **CRANN** contains trained artificial neural networks to generate synthetic cosmic chronometers, JLA Type Ia supernovae (distance modulus) and 
 <img src="https://render.githubusercontent.com/render/math?math=f_{\sigma8}"> data.
