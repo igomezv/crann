@@ -30,9 +30,9 @@ You can install these packages using `pip` by running:
 ```bash
 pip install numpy sklearn scipy pandas matplotlib seaborn tensorflow==2.6.0 keras==2.6.0 astroNN h5py==2.9.0
 
-## Usage
 
-Detailed instructions on how to use the trained models and generate data can be found in the **arxiv_notebooks/** directory. Each notebook is documented to guide you through the process of generating synthetic cosmological data.
+## Usage
+Details about the training of the models can be found in the **arxiv_notebooks/** directory. E
 
 ## Citing This Work
 
