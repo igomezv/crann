@@ -4,7 +4,7 @@
 
 **CRANN** is an open-source project designed to facilitate cosmological reconstructions using Artificial Neural Networks. This repository hosts the neural networks trained to generate synthetic cosmic chronometers, JLA Type Ia supernovae (distance modulus), and $f_{\sigma8}$ data, based on the findings and methodologies described in our paper:
 
-> Gómez-Vargas, I., Medel-Esquivel, R., García-Salcedo, R. et al. Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. Eur. Phys. J. C 83, 304 (2023). [https://doi.org/10.1140/epjc/s10052-023-11435-9](https://doi.org/10.1140/epjc/s10052-023-11435-9).
+> Gómez-Vargas, I., Medel-Esquivel, R., García-Salcedo, R. et al. Neural network reconstructions for the Hubble parameter, growth rate, and distance modulus. Eur. Phys. J. C 83, 304 (2023). [https://doi.org/10.1140/epjc/s10052-023-11435-9](https://doi.org/10.1140/epjc/s10052-023-11435-9).
 
 ## Repository Contents
 
@@ -32,7 +32,7 @@ pip install numpy sklearn scipy pandas matplotlib seaborn tensorflow==2.6.0 kera
 ```
 
 ## Usage
-Details about the training of the models can be found in the **arxiv_notebooks/** directory. E
+Details about the training of the models can be found in the **arxiv_notebooks/** directory. 
 
 ## Citing This Work
 
