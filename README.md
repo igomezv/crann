@@ -48,6 +48,7 @@ If you use CRANN in your research, please cite our paper to acknowledge the work
   year={2023},
   publisher={Springer}
 }
+```
 
 ## Additional Resources
 
