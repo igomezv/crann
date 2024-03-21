@@ -29,7 +29,7 @@ You can install these packages using `pip` by running:
 
 ```bash
 pip install numpy sklearn scipy pandas matplotlib seaborn tensorflow==2.6.0 keras==2.6.0 astroNN h5py==2.9.0
-
+```
 
 ## Usage
 Details about the training of the models can be found in the **arxiv_notebooks/** directory. E
